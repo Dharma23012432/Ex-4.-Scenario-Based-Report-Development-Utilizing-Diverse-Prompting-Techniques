@@ -99,7 +99,7 @@ Generate a polite and concise response to the following query. Include:
 Customer Query: "I can't track my order."
 ```
 ## Output:
-https://github.com/SanjayK2006/Ex-4.-Scenario-Based-Report-Development-Utilizing-Diverse-Prompting-Techniques/blob/main/PE-04.pdf  
+https://github.com/Dharma23012432/Ex-4.-Scenario-Based-Report-Development-Utilizing-Diverse-Prompting-Techniques/blob/main/PE-04.pdf
 ## Result:
 The AI-powered chatbot was successfully designed and tested using different prompt engineering techniques to handle retail customer queries effectively.
 It improved response accuracy, clarity, and customer support quality, especially when using structured and context-based prompts.
